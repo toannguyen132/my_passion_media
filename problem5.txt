@@ -1,0 +1,12 @@
+The marketing manager at KevDev (https://kevin.mchn.io), a leading widget supplier, has implemented a brand new website and ecommerce store, but she's found that there is a large customer drop off in the checkout process somewhere. She would like you to go through the process and find what you think is the most likely culprit and then mock up what you would do to fix the problem.
+
+She has given you the following test credit card you can use on the site.
+Number: 4242 4242 4242 4242
+Expiry: 01 / 21
+CVV: 123
+
+
+Answer:
+I found at the checkout form. If I input a invalid email, the form won't notify me but continue go to step 2.
+Then at the last step, I cannot process to pay but the form doesn't show any error. It just doesn't process at all.
+The user won't figure out what is wrong and will give up.
