@@ -15,6 +15,14 @@ Spoon: 0.05kg, 15cm x 5cm x 2xm
 */
 
 /**
+ * The client side (HTML, javascript) code can be view at the folder problem4
+ * index.php: the html layout for testing the OOP design
+ * script.js: script to send ajax request 
+ * post.php: the backend to received request, crete object, and response to the client
+ * 
+ */
+
+/**
  * Abstract class product
  */
 abstract class Product {
